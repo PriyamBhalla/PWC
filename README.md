@@ -4,6 +4,7 @@ This is the tasks performed by me for PwC New world. New skills: Power BI Virtua
 
 Here there were three tasks which were asked to be done for the submissions They were:
 Call Centre Trends, Customer Retention, Diversity & Inclusion using Power Bi.
+The data sets are available here.
 
 
 The dashboards are divided task wise
